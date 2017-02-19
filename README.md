@@ -8,24 +8,17 @@ flaskr
     │   ├── auth
     │   │   ├── controllers.py
     │   │   ├── __init__.py
-    │   │   ├── __init__.pyc
     │   │   ├── models.py
     │   │   ├── urls.py
-    │   │   ├── urls.pyc
-    │   │   ├── views.py
-    │   │   └── views.pyc
+    │   │   └── views.py
     │   ├── common
     │   │   ├── __init__.py
     │   │   └── utils.py
     │   ├── ext
-    │   │   ├── __init__.py
-    │   │   └── __init__.pyc
+    │   │   └── __init__.py
     │   ├── __init__.py
-    │   ├── __init__.pyc
-    │   ├── urls.py
-    │   └── urls.pyc
+    │   └── urls.py
     ├── config.py
-    ├── config.pyc
     ├── manage.py
     └── README.md
 ```
